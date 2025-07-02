@@ -2,6 +2,7 @@ package Buoi2;
 
 public class BienBuoi2 {
 String address = "Da nang"; // edit Da Nang into TPHCM
+String address = "Ho Chi Minh city"; // edit Da Nang into TPHCM
 
 int number1 = 2000000000;
 
